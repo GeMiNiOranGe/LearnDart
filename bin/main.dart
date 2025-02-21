@@ -1,3 +1,5 @@
+import '../lib/data_types.dart';
+
 void main(List<String> args) {
-  print('Hello world');
+  printVariables();
 }
